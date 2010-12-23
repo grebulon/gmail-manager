@@ -60,7 +60,7 @@
 	</popup>
 	
 	<!-- Statusbar -->
-	<statusbar id="status-bar">
+	<statusbar id="addon-bar">
 		<statusbarpanel id="gmanager-toolbar-panel"
 						class="gmanager-account-info"
 						hidden="true"
